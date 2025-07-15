@@ -1,7 +1,5 @@
 ## Doki Doki 7th Design Club!
 
-<img width="384" height="384" alt="DokiSeven" align="right" src="https://github.com/user-attachments/assets/18ca200d-c4e9-4553-9b48-3adff08de04e" />
-
 Welcome to the Doki Doki 7th Design Club! It's always been a dream of mine to make something special out of the things I love.
 
 ### Our projects
