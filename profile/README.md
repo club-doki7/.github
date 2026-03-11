@@ -1,6 +1,6 @@
-## Doki Doki 7th Design Club!
+## Doki Doki λ Club!
 
-Welcome to the Doki Doki 7th Design Club! It's always been a dream of mine to make something special out of the things I love.
+Welcome to the Doki Doki λ Club! It's always been a dream of mine to make something special out of the things I love.
 
 ### Our projects
 - [`sennaar`](https://github.com/club-doki7/sennaar.git): *(Under construction)* General-purposed C programming langauge API metadata registry, including metadata definition, extraction tool and metadata for several existing libraries!
